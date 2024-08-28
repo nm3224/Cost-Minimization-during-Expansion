@@ -44,5 +44,5 @@ file_path = 'data/Shipping_Data.xlsx' shipping_data = pd.read_excel(file_path)
 - `data/`: This includes our data file, `Shipping_Data.xlsx`.
 - `states/`: Includes all files for the `states.shp` file used for mapping.
 - `images/`: Includes all data visualizations created using our `.ipynb` file.
-- `presentation/`: Includes powerpoint presentation, `.pdf` file of Python notebook and slide deck of final analysis, visualizations, and conclusions.
+- `presentation/`: Includes powerpoint presentation, `.pdf` file of Python notebook and `.pdf` of slide deck of final analysis, visualizations, and conclusions.
 - `Cost-Minimization-during-Expansion.ipynb`: Python Jupyter `.ipynb` file for running all data analysis and visualizations.  
