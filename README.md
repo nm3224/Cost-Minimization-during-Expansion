@@ -18,7 +18,7 @@ We have been given the following information:
 
 4. Their current warehousing spend is $150K a year.
 
-### My findings were as follows:
+### Data Exploration, Findings and Analysis:
 
 * The current grand total of annual warehouse costs - shipment and maintenance costs combined - was $1,533,482.64
     * Shipping costs made up about 90% of these total annual warehouse costs.
@@ -26,7 +26,7 @@ We have been given the following information:
 * The state with the most shipping costs was California, with a whopping $429,255.84 spent on shipments to California, annually.
 * Shipments to CA from the warehouse location in Syracuse, NY made up approximately 31% of our annual shipping costs, and 28% of total annual costs.
 
-### My solution presented an analysis of the current data as well as a breakdown of future savings opportunites for the company over time. The conclusions are listed below:
+### Solutions and Final Conclusions:
 
 * In 5 years from now, another warehouse in CA is likely to save money. A single additional warehouse would save costs and hold long-term benefits.
 * By opening a second warehouse, the company would save a grand total of $1.1M over the next 5 years.
