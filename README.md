@@ -1,7 +1,8 @@
 # Cost-Minimization-during-Expansion
 
 ### This is a personal project dealing with a business problem statement where the goal is cost minimization during expansion.
-The client is a fast-growing company selling merchandise across the US. Their team believes that as the company expands, they may benefit from moving from a single distribution warehouse (currently located in Syracuse, NY) to multiple distribution points.
+
+**Problem Statement**: The client is a fast-growing company selling merchandise across the US. Their team believes that as the company expands, they may benefit from moving from a single distribution warehouse (currently located in Syracuse, NY) to multiple distribution points.
 
 Their sales are growing at a rate of 15% a year, so their spend with their parcel service is exploding.
 We have been given the following information:
