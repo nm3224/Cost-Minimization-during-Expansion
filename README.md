@@ -24,21 +24,16 @@ We have been given the following information:
     * Shipping costs made up about 90% of these total annual warehouse costs.
     * The company was spending a total of $1,383,482.64 on shipments each year.
 * The state with the most shipping costs was California, with a whopping $429,255.84 spent on shipments to California, annually.
-
-Shipments to CA from the warehouse location in Syracuse, NY made up approximately 31% of our annual shipping costs, and 28% of total annual costs.
+* Shipments to CA from the warehouse location in Syracuse, NY made up approximately 31% of our annual shipping costs, and 28% of total annual costs.
 
 ### My solution presented an analysis of the current data as well as a breakdown of future savings opportunites for the company over time. The conclusions are listed below:
 
 * In 5 years from now, another warehouse in CA is likely to save money. A single additional warehouse would save costs and hold long-term benefits.
-
 * By opening a second warehouse, the company would save a grand total of $1.1M over the next 5 years.
      * That's 9.62% in total savings.
      * They would save $1.85M on shipping costs alone.
-
 * Warehouse costs would be $1.5M over the next 5 years.
-
 * Their net savings would be $654,309.64.
-
 * They would be saving 17.29% on shipping, yearly.
 
 ### To run the code:
